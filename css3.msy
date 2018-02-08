@@ -935,7 +935,7 @@ yellowgreen
 \-??[0-9.]+dppx
 
 #Word Color=4, WholeWord=True, RightSide=False, MatchCase=False, InsideTag=False, RegEx=False
-#?HTML5.1タグ momdoさんのHTML5の構文ファイルよりコピペ
+#?HTML5.1タグ momdoさんのHTML5.1の構文ファイルよりコピペ
 a
 abbr
 address
