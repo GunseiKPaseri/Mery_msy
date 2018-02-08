@@ -50,5 +50,5 @@ ECMAScriptの2015に準拠したファイルです。ウェブブラウザから
 
 
 
-[BlackApple](https://github.com/JapaneseBlackApple)
+[群生系パセリ](https://github.com/GunseiPaseri)
 
